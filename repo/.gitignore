@@ -1,0 +1,11 @@
+# ---- 大文件不进 git，走 Release 附件 ----
+installers/
+source/我，地图和小女仆.html
+*.zip
+
+# ---- 系统与临时文件 ----
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+__pycache__/
